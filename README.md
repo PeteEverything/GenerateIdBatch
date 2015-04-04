@@ -11,4 +11,4 @@ We want to be able to apply a total order to entities that were created across n
 Usage:
 
 Set up the config.properties file as per your requirements for batch size, threads, etc.
-Running GenerateIds will create an instance of ConsumerThread, or write your own externally.  ConsumerThread is an example, which receives the generated batch of Ids as a Striing Array.
+Running GenerateIds will create an instance of ConsumerThread, or write your own externally.  ConsumerThread is an example, which receives the generated batch of Ids as a String Array.
